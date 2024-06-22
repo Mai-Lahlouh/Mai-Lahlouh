@@ -41,7 +41,7 @@ I'm always eager to collaborate on exciting projects and exchange ideas with fel
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/mai-lahlouh" target="_blank">
+<a href="[www.linkedin.com/in/mai-lahlouh](https://www.linkedin.com/in/mai-lahlouh/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
