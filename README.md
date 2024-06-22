@@ -9,7 +9,6 @@
 </p>
 
 ## Technologies & Tools 🛠️
-Exploring the best of both worlds: <br/> <br/>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
